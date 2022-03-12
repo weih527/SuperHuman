@@ -46,6 +46,10 @@ Download and unzip them in corresponding folders in './data'.
 
 ## Training and Inference
 
+```shell	
+cd ./scripts
+```
+
 ### 1. Training
 
 ```shell
